@@ -2,7 +2,7 @@
 
 The Research Assistant turns user-interview transcripts into insights (pain points, needs and what works), each backed by quotes you can check in the transcript.
 
-I built this in a day with Claude Code, to learn a production-style AI stack by building something real. I chose the problem, set the requirements and designed the interface. The AI's answers are treated as untrusted: every quote is checked word for word against the transcript.
+I built this with Claude Code, to learn a production-style AI stack by building something real. I chose the problem, set the requirements and designed the interface. The AI's answers are treated as untrusted: every quote is checked word for word against the transcript.
 
 - **React + TypeScript:** the interface, with live progress and quotes highlighted in the transcript
 - **FastAPI (Python):** receives the interviews, runs each step and streams progress back

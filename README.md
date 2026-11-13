@@ -2,7 +2,7 @@
 
 Turns user-interview transcripts into insights you can trust. Every insight links to the exact quote it is based on, and every quote is checked against the source before anyone sees it.
 
-**Prototype.** Built in a day to learn a production-style AI stack. Use synthetic data only. The short, non-technical story of how and why I built it is in [HOW-I-BUILT-IT.md](HOW-I-BUILT-IT.md).
+**Prototype.** Built to learn a production-style AI stack. Use synthetic data only. The short, non-technical story of how and why I built it is in [HOW-I-BUILT-IT.md](HOW-I-BUILT-IT.md).
 
 Live demo: [semtip.nl/koos](https://semtip.nl/koos) · Example result without an AI call: [semtip.nl/koos#example](https://semtip.nl/koos#example)
 

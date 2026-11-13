@@ -167,7 +167,7 @@ export default function App() {
       <header className="intro">
         <h1>Research Assistant</h1>
         <p className="muted">
-          I built this in a day with Claude Code, to learn a production-style AI stack by building something real. AI is
+          I built this with Claude Code, to learn a production-style AI stack by building something real. AI is
           good at summarizing interviews, but designers rightly don't trust a summary they can't trace back. If one quote is
           invented, the whole synthesis is suspect. So this tool treats the model as an untrusted narrator and lets the user
           verify the results (<a href={REPO_URL} target="_blank" rel="noreferrer">read more on GitHub</a>).

@@ -172,7 +172,7 @@ export default function App() {
           invented, the whole synthesis is suspect. So this tool treats the model as an untrusted narrator and lets the user
           verify the results (<a href={REPO_URL} target="_blank" rel="noreferrer">read more on GitHub</a>).
         </p>
-        <HowItWorks />
+        <HowItWorks intro={false} />
       </header>
 
       {blank && exampleResult && (

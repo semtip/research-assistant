@@ -9,16 +9,17 @@ const STACK: [string, string][] = [
   ['Docker + Vercel', 'packaging, and hosting at semtip.nl/koos'],
 ]
 
-export function HowItWorks() {
+/** `intro`: show the how-I-built-it paragraph (the input page already says it in its own intro). */
+export function HowItWorks({ intro = true }: { intro?: boolean }) {
   return (
-    <details className="how">
+    <details className="how" open>
       <summary>How it works and how I built it</summary>
       <div className="how-body">
-        <p>
+        {intro && <p>
           I built this in a day with Claude Code, to learn a production-style AI stack by building something real. I chose
           the problem, set the requirements and designed the interface. The AI's answers are treated as untrusted: every
           quote is checked word for word against the transcript.
-        </p>
+        </p>}
         <ul>
           {STACK.map(([name, role]) => (
             <li key={name}>

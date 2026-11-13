@@ -227,9 +227,8 @@ h2 { font-size: 15px; font-weight: 500; color: var(--muted); padding: 0 0 4px; }
 .how[open] summary::after { content: "\2212"; }
 .how summary:hover { color: var(--ink); }
 .how-body { display: grid; gap: 12px; margin-top: 12px; }
-.how-body ul { margin: 0; padding-left: 18px; display: grid; gap: 4px; }
-.how-body strong { font-weight: 600; }
-.how .repo { justify-self: start; font-weight: 600; }
+.how-body ul { margin: 0; padding-left: 18px; display: grid; gap: 4px; color: var(--muted); }
+.how-body strong { font-weight: 600; color: inherit; }
 
 /* Progress */
 

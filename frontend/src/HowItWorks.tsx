@@ -27,9 +27,6 @@ export function HowItWorks({ intro = true }: { intro?: boolean }) {
             </li>
           ))}
         </ul>
-        <a className="repo" href={REPO_URL} target="_blank" rel="noreferrer">
-          View the code on GitHub
-        </a>
       </div>
     </details>
   )

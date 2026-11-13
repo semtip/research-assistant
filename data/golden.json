@@ -1,0 +1,87 @@
+{
+  "_note": "Answer key for evaluating Interview Insights on the synthetic Loop interviews. P1 = Sanne (interview-1), P2 = Daan (interview-2), P3 = Yara (interview-3). Evidence quotes are exact substrings of the transcripts.",
+  "participants": {
+    "P1": {"file": "interview-1-sanne.txt", "speaker": "Sanne de Vries"},
+    "P2": {"file": "interview-2-daan.txt", "speaker": "Daan Bakker"},
+    "P3": {"file": "interview-3-yara.txt", "speaker": "Yara El Amrani"}
+  },
+  "pain_points": [
+    {
+      "id": "slow_repairs",
+      "description": "Repairs take far longer than promised, leaving people without their main transport",
+      "strength": "strong",
+      "participants": ["P1", "P2", "P3"],
+      "evidence": {
+        "P1": "It took nine days.",
+        "P2": "it was more than a week before the replacement bike came",
+        "P3": "the slot they gave me was a week later"
+      }
+    },
+    {
+      "id": "id_verification_fails",
+      "description": "ID verification during sign-up fails repeatedly without explanation",
+      "strength": "medium",
+      "participants": ["P1", "P2"],
+      "counter_evidence": {"P3": "It was fine for me, it took like five minutes."},
+      "evidence": {
+        "P1": "The ID check kept rejecting my passport photo",
+        "P2": "without saying why"
+      }
+    },
+    {
+      "id": "hidden_fees",
+      "description": "Extra fees (damage, late return) come as a surprise and are not visible in the app",
+      "strength": "medium",
+      "participants": ["P1", "P3"],
+      "evidence": {
+        "P1": "Nobody told me that could happen.",
+        "P3": "I had no idea that existed."
+      }
+    },
+    {
+      "id": "no_human_support",
+      "description": "Support is chat-only; people cannot reach a human when it matters",
+      "strength": "medium",
+      "participants": ["P1", "P2"],
+      "counter_evidence": {"P3": "Through the chat, and to be fair it's fast."},
+      "evidence": {
+        "P1": "there's no phone number anywhere",
+        "P2": "There's only the chat."
+      }
+    },
+    {
+      "id": "winter_battery_range",
+      "description": "Battery range drops in cold weather, eroding trust",
+      "strength": "weak",
+      "participants": ["P2"],
+      "evidence": {"P2": "since it got colder I notice it runs out much faster"}
+    },
+    {
+      "id": "no_pause_option",
+      "description": "Subscription cannot be paused, only cancelled",
+      "strength": "weak",
+      "participants": ["P2"],
+      "evidence": {"P2": "I can only cancel"}
+    },
+    {
+      "id": "remote_battery_status",
+      "description": "Wants to see battery level on the phone (feature request)",
+      "strength": "weak",
+      "participants": ["P3"],
+      "evidence": {"P3": "see how much battery I have left on my phone"}
+    }
+  ],
+  "positives": [
+    {"id": "bike_quality", "participants": ["P1", "P3"], "evidence": {"P1": "I really love the bike.", "P3": "The bike itself is really good."}},
+    {"id": "delivery_experience", "participants": ["P1"], "evidence": {"P1": "The delivery was lovely"}}
+  ],
+  "should_not_appear": [
+    {"id": "lock_problems", "why": "P2 explicitly says the lock works well", "trap": "I've never had any trouble with the lock"},
+    {"id": "price_too_high", "why": "P1 and P2 both say the monthly price is fine or fair", "trap": "The price is fair for what you get."},
+    {"id": "battery_issue_P1", "why": "P1 has no battery complaints; winter range is only P2", "trap": "No complaints."}
+  ],
+  "pii_to_remove": [
+    "Sanne de Vries", "Daan Bakker", "Yara El Amrani", "Mila",
+    "sanne.devries@mailbox.nl", "yara.elamrani@studentmail.nl", "06 1234 5678"
+  ]
+}

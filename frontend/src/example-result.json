@@ -1,0 +1,368 @@
+{
+ "transcripts": [
+  {
+   "pid": "P1",
+   "title": "Interview 1, daily commuter",
+   "text": "SYNTHETIC INTERVIEW. All people, contact details and the service \"Loop\" are fictional.\nStudy: Loop e-bike subscription, user experience research\nParticipant: P1, 34, daily commuter, subscriber for 8 months\nInterviewer: Interviewer\n\nInterviewer: Thanks for joining, P1. Can you start by telling me how you use your Loop bike?\n\nP1: Sure. I ride it to work every day, about twenty minutes each way. Before Loop I took the bus, so honestly the bike itself changed my mornings. It's comfortable, it looks great, and I arrive without being sweaty. I really love the bike.\n\nInterviewer: What was it like to get started?\n\nP1: The delivery was lovely, the guy who brought it explained everything and adjusted the saddle. Signing up in the app was less fun. The ID check kept rejecting my passport photo, I tried it maybe six times. In the end I just gave up and did it the next day on my laptop.\n\nInterviewer: What happens when something goes wrong with the bike?\n\nP1: That's the big one for me. In October my rear brake started making a grinding noise. I reported it in the app and they said a mechanic would come within 48 hours. It took nine days. Nine days without my bike, and I still paid for that month. I had to take the bus again and I was late twice.\n\nInterviewer: How did you try to get help during those nine days?\n\nP1: I tried to call, but there's no phone number anywhere. You can only talk to the chat assistant, and it kept sending me the same article about booking a repair. I just wanted a person to tell me when someone would come. I even emailed [EMAIL] to myself as a reminder to complain, that's how annoyed I was.\n\nInterviewer: Is there anything about the costs you'd like to share?\n\nP1: The monthly price is fine, I knew it when I signed up. But when they finally fixed the brake, I got an extra charge of 35 euros for \"wear outside normal use\". Nobody told me that could happen. I couldn't find it anywhere in the app. That felt really unfair because I just ride to work.\n\nInterviewer: How has the battery been?\n\nP1: No complaints. I charge it twice a week and that's plenty for my commute.\n\nInterviewer: Anything else you'd change?\n\nP1: Just fix the repairs. If a mechanic came within two days like they promise, I'd recommend Loop to everyone. Right now I tell friends \"great bike, but pray it doesn't break\".\n",
+   "redactions": {
+    "names": 17,
+    "emails": 1,
+    "phones": 0
+   }
+  },
+  {
+   "pid": "P2",
+   "title": "Interview 2, groceries and family",
+   "text": "SYNTHETIC INTERVIEW. All people, contact details and the service \"Loop\" are fictional.\nStudy: Loop e-bike subscription, user experience research\nParticipant: P2, 52, uses the bike for groceries and visiting family, subscriber for 1 year\nInterviewer: Interviewer\n\nInterviewer: Hi P2, thanks for making time. How do you use your Loop bike?\n\nP2: Mostly for groceries and to visit my mother on the other side of town. A few times a week. I'm not a sporty person, so the electric support is great on the bridge.\n\nInterviewer: How was signing up?\n\nP2: My daughter helped me, otherwise I would not have managed. The app asked me to scan my ID and then it said \"verification failed\" without saying why. We tried with my driving licence instead and that worked, but it took us the whole evening.\n\nInterviewer: Has the bike needed any repairs?\n\nP2: Twice. The first time was a flat tyre and that was fixed quickly, the next day. The second time the motor stopped working completely. They said it would be two days, but it was more than a week before the replacement bike came. I had to carry my groceries by hand. At my age that's no joke.\n\nInterviewer: How did you feel about how Loop handled that?\n\nP2: I wanted to call someone, but you can't. There's only the chat. I typed my question three times and every time it answered something else. In the end my daughter found an email address and wrote to them. If you want to reach me about this research, my number is [PHONE], by the way, I prefer the phone.\n\nInterviewer: What do you think about the price?\n\nP2: The price is fair for what you get. I compared it with buying an e-bike and this is easier, no worries about theft insurance.\n\nInterviewer: How does the battery hold up?\n\nP2: In summer, no problem at all. But since it got colder I notice it runs out much faster. Last week it died halfway home from my mother's place. Now I only go if I'm sure it's fully charged. I don't really trust it anymore in winter.\n\nInterviewer: Is there anything you'd like to be different?\n\nP2: In the summer I go to my sister in Spain for six weeks. I asked if I could pause my subscription and they said no, I can only cancel. So I pay six weeks for a bike that stands in my shed. That doesn't feel right.\n\nInterviewer: Anything else?\n\nP2: I've never had any trouble with the lock, which my neighbour warned me about. That part works well.\n",
+   "redactions": {
+    "names": 19,
+    "emails": 0,
+    "phones": 1
+   }
+  },
+  {
+   "pid": "P3",
+   "title": "Interview 3, student",
+   "text": "SYNTHETIC INTERVIEW. All people, contact details and the service \"Loop\" are fictional.\nStudy: Loop e-bike subscription, user experience research\nParticipant: P3, 26, master's student, subscriber for 4 months\nInterviewer: Interviewer\n\nInterviewer: Hi P3, welcome. Tell me a bit about how you use Loop.\n\nP3: I use it for everything. Campus, my side job at a cafe, going out. I don't have a car, so the bike is basically my car.\n\nInterviewer: What did you think of the sign-up?\n\nP3: It was fine for me, it took like five minutes. The app is pretty clean. I think it's designed for people like me, honestly.\n\nInterviewer: Have you had any issues with the bike?\n\nP3: Yes, the chain kept falling off. I booked a repair and the slot they gave me was a week later. A week! I had exams that week. I ended up borrowing my roommate's old bike, which was terrible. When you depend on the bike every day, waiting a week is just not an option.\n\nInterviewer: Were there any costs involved?\n\nP3: That's actually what annoyed me most. I returned the bike two days late when I switched to a different plan, because the pickup slot didn't work for me. They charged me a late fee of 20 euros per day. I had no idea that existed. It's somewhere in the terms, I guess, but who reads that? It should be in the app, right where you book the pickup.\n\nInterviewer: How do you usually contact Loop?\n\nP3: Through the chat, and to be fair it's fast. For simple things it's fine.\n\nInterviewer: Is there anything you would add to the service?\n\nP3: I'd love it if I could see how much battery I have left on my phone. Now I have to walk to the bike to check. Small thing, but it would help. You can send me the summary at [EMAIL] if you want.\n\nInterviewer: Last question. Would you recommend Loop?\n\nP3: Yes, but with a warning about the fees and the repairs. The bike itself is really good.\n",
+   "redactions": {
+    "names": 17,
+    "emails": 1,
+    "phones": 0
+   }
+  }
+ ],
+ "insights": [
+  {
+   "title": "Slow repair turnaround times",
+   "kind": "pain_point",
+   "summary": "3 of 3 participants experienced long delays when waiting for bike repairs or replacements.",
+   "status": "verified",
+   "participants": [
+    "P1",
+    "P2",
+    "P3"
+   ],
+   "evidence": [
+    {
+     "participant": "P1",
+     "quote": "It took nine days. Nine days without my bike, and I still paid for that month.",
+     "status": "verified",
+     "found_in": "P1",
+     "start": 1123,
+     "end": 1200,
+     "score": 100.0
+    },
+    {
+     "participant": "P2",
+     "quote": "They said it would be two days, but it was more than a week before the replacement bike came.",
+     "status": "verified",
+     "found_in": "P2",
+     "start": 973,
+     "end": 1065,
+     "score": 100.0
+    },
+    {
+     "participant": "P3",
+     "quote": "I booked a repair and the slot they gave me was a week later. A week!",
+     "status": "verified",
+     "found_in": "P3",
+     "start": 695,
+     "end": 763,
+     "score": 100.0
+    }
+   ],
+   "counter_evidence": []
+  },
+  {
+   "title": "High quality and comfortable bikes",
+   "kind": "positive",
+   "summary": "3 of 3 participants appreciate the physical quality and comfort of the bike itself.",
+   "status": "verified",
+   "participants": [
+    "P1",
+    "P2",
+    "P3"
+   ],
+   "evidence": [
+    {
+     "participant": "P1",
+     "quote": "It's comfortable, it looks great, and I arrive without being sweaty. I really love the bike.",
+     "status": "verified",
+     "found_in": "P1",
+     "start": 473,
+     "end": 564,
+     "score": 100.0
+    },
+    {
+     "participant": "P2",
+     "quote": "I'm not a sporty person, so the electric support is great on the bridge.",
+     "status": "verified",
+     "found_in": "P2",
+     "start": 434,
+     "end": 505,
+     "score": 100.0
+    },
+    {
+     "participant": "P3",
+     "quote": "The bike itself is really good.",
+     "status": "verified",
+     "found_in": "P3",
+     "start": 1827,
+     "end": 1857,
+     "score": 100.0
+    }
+   ],
+   "counter_evidence": []
+  },
+  {
+   "title": "Frustrating ID verification in the app",
+   "kind": "pain_point",
+   "summary": "2 of 3 participants encountered failures or obstacles when scanning their ID during sign-up.",
+   "status": "verified",
+   "participants": [
+    "P1",
+    "P2"
+   ],
+   "evidence": [
+    {
+     "participant": "P1",
+     "quote": "The ID check kept rejecting my passport photo, I tried it maybe six times.",
+     "status": "verified",
+     "found_in": "P1",
+     "start": 748,
+     "end": 821,
+     "score": 100.0
+    },
+    {
+     "participant": "P2",
+     "quote": "The app asked me to scan my ID and then it said \"verification failed\" without saying why.",
+     "status": "verified",
+     "found_in": "P2",
+     "start": 605,
+     "end": 693,
+     "score": 100.0
+    }
+   ],
+   "counter_evidence": [
+    {
+     "participant": "P3",
+     "quote": "It was fine for me, it took like five minutes.",
+     "status": "verified",
+     "found_in": "P3",
+     "start": 480,
+     "end": 525,
+     "score": 100.0
+    }
+   ]
+  },
+  {
+   "title": "Lack of phone support and unhelpful chat assistant",
+   "kind": "pain_point",
+   "summary": "2 of 3 participants wanted to call customer service but found phone support unavailable and the chat unhelpful.",
+   "status": "verified",
+   "participants": [
+    "P1",
+    "P2"
+   ],
+   "evidence": [
+    {
+     "participant": "P1",
+     "quote": "I tried to call, but there's no phone number anywhere. You can only talk to the chat assistant",
+     "status": "verified",
+     "found_in": "P1",
+     "start": 1323,
+     "end": 1417,
+     "score": 100.0
+    },
+    {
+     "participant": "P2",
+     "quote": "I wanted to call someone, but you can't. There's only the chat. I typed my question three times and every time it answered something else.",
+     "status": "verified",
+     "found_in": "P2",
+     "start": 1195,
+     "end": 1332,
+     "score": 100.0
+    }
+   ],
+   "counter_evidence": [
+    {
+     "participant": "P3",
+     "quote": "Through the chat, and to be fair it's fast. For simple things it's fine.",
+     "status": "verified",
+     "found_in": "P3",
+     "start": 1377,
+     "end": 1448,
+     "score": 100.0
+    }
+   ]
+  },
+  {
+   "title": "Unexpected extra charges",
+   "kind": "pain_point",
+   "summary": "2 of 3 participants were surprised by unexpected fees that were not clearly communicated.",
+   "status": "verified",
+   "participants": [
+    "P1",
+    "P3"
+   ],
+   "evidence": [
+    {
+     "participant": "P1",
+     "quote": "when they finally fixed the brake, I got an extra charge of 35 euros for \"wear outside normal use\". Nobody told me that could happen.",
+     "status": "verified",
+     "found_in": "P1",
+     "start": 1761,
+     "end": 1893,
+     "score": 100.0
+    },
+    {
+     "participant": "P3",
+     "quote": "They charged me a late fee of 20 euros per day. I had no idea that existed.",
+     "status": "verified",
+     "found_in": "P3",
+     "start": 1133,
+     "end": 1207,
+     "score": 100.0
+    }
+   ],
+   "counter_evidence": []
+  },
+  {
+   "title": "Fair subscription pricing",
+   "kind": "positive",
+   "summary": "2 of 3 participants find the regular monthly subscription price to be fair.",
+   "status": "verified",
+   "participants": [
+    "P1",
+    "P2"
+   ],
+   "evidence": [
+    {
+     "participant": "P1",
+     "quote": "The monthly price is fine, I knew it when I signed up.",
+     "status": "verified",
+     "found_in": "P1",
+     "start": 1702,
+     "end": 1755,
+     "score": 100.0
+    },
+    {
+     "participant": "P2",
+     "quote": "The price is fair for what you get.",
+     "status": "verified",
+     "found_in": "P2",
+     "start": 1552,
+     "end": 1586,
+     "score": 100.0
+    }
+   ],
+   "counter_evidence": []
+  },
+  {
+   "title": "Inability to pause subscription during travel",
+   "kind": "pain_point",
+   "summary": "1 participant was frustrated that they cannot pause their subscription while away for several weeks.",
+   "status": "verified",
+   "participants": [
+    "P2"
+   ],
+   "evidence": [
+    {
+     "participant": "P2",
+     "quote": "I asked if I could pause my subscription and they said no, I can only cancel. So I pay six weeks for a bike that stands in my shed.",
+     "status": "verified",
+     "found_in": "P2",
+     "start": 2080,
+     "end": 2210,
+     "score": 100.0
+    }
+   ],
+   "counter_evidence": []
+  },
+  {
+   "title": "Reduced battery performance in winter",
+   "kind": "pain_point",
+   "summary": "1 participant experienced shorter battery life and unreliability in cold weather.",
+   "status": "verified",
+   "participants": [
+    "P2"
+   ],
+   "evidence": [
+    {
+     "participant": "P2",
+     "quote": "since it got colder I notice it runs out much faster. Last week it died halfway home from my mother's place.",
+     "status": "verified",
+     "found_in": "P2",
+     "start": 1761,
+     "end": 1868,
+     "score": 100.0
+    }
+   ],
+   "counter_evidence": [
+    {
+     "participant": "P1",
+     "quote": "No complaints. I charge it twice a week and that's plenty for my commute.",
+     "status": "verified",
+     "found_in": "P1",
+     "start": 2033,
+     "end": 2105,
+     "score": 100.0
+    }
+   ]
+  },
+  {
+   "title": "Reliable lock mechanism",
+   "kind": "positive",
+   "summary": "1 participant noted that the bike lock works well without any issues.",
+   "status": "verified",
+   "participants": [
+    "P2"
+   ],
+   "evidence": [
+    {
+     "participant": "P2",
+     "quote": "I've never had any trouble with the lock, which my neighbour warned me about. That part works well.",
+     "status": "verified",
+     "found_in": "P2",
+     "start": 2271,
+     "end": 2369,
+     "score": 100.0
+    }
+   ],
+   "counter_evidence": []
+  },
+  {
+   "title": "Remote battery level indicator in app",
+   "kind": "need",
+   "summary": "1 participant wants the ability to check the remaining battery level directly on their phone.",
+   "status": "verified",
+   "participants": [
+    "P3"
+   ],
+   "evidence": [
+    {
+     "participant": "P3",
+     "quote": "I'd love it if I could see how much battery I have left on my phone. Now I have to walk to the bike to check.",
+     "status": "verified",
+     "found_in": "P3",
+     "start": 1517,
+     "end": 1625,
+     "score": 100.0
+    }
+   ],
+   "counter_evidence": []
+  }
+ ],
+ "stats": {
+  "quotes_total": 21,
+  "quotes_verified": 21,
+  "quotes_near": 0,
+  "quotes_rejected": 0,
+  "insights_kept": 10,
+  "insights_dropped": 0,
+  "retried": false,
+  "retry_feedback": [],
+  "model": "gemini-3.5-flash-lite",
+  "seconds": 5.6
+ }
+}

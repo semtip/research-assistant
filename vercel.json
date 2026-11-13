@@ -1,0 +1,11 @@
+{
+  "framework": null,
+  "installCommand": "cd frontend && npm ci",
+  "buildCommand": "cd frontend && npm run build",
+  "outputDirectory": "frontend/dist",
+  "functions": { "api/index.py": { "maxDuration": 60 } },
+  "rewrites": [
+    { "source": "/koos/api/:path*", "destination": "/api/index" },
+    { "source": "/", "destination": "/koos/" }
+  ]
+}
